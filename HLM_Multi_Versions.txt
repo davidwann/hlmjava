@@ -1,0 +1,59 @@
+
+
+HLM_Multi_Versions.txt
+
+
+
+Java Web Application
+
+HLM 
+
+Multiple Variations
+
+
+
+Google App Engine
+
+   Slim 3 framework
+   
+   JSP and Servlets
+   
+   Google Web Toolkit
+   
+
+
+
+Tomcat
+
+   JSPs and Servlets
+   
+   Struts 2 framework
+   
+   Spring Framework
+   
+   Javaserver Faces
+   
+   
+
+
+
+
+
+Glassfish
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
